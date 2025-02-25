@@ -3,4 +3,4 @@ pandas
 requests
 datetime
 solders
-guinicorn
+gunicorn

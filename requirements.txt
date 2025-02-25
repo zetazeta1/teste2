@@ -1,7 +1,6 @@
 flask
 pandas
 requests
-json
 datetime
 base64
 os

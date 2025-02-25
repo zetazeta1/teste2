@@ -2,5 +2,4 @@ flask
 pandas
 requests
 datetime
-os
 solders
